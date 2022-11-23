@@ -1,6 +1,6 @@
 package chapter_01;
 
-public class Shuffle1 {
+public class CodeMagnet {
     // Head First Java Code Magnet Exercise Solution
     public static void main(String[] args){
         int x = 3;
