@@ -1,3 +1,5 @@
+package chapter_01;
+
 public class Shuffle1 {
     // Head First Java Code Magnet Exercise Solution
     public static void main(String[] args){

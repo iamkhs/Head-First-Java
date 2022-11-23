@@ -1,3 +1,5 @@
+package chapter_01;
+
 import java.util.Random;
 
 public class PhraseOMatic {
