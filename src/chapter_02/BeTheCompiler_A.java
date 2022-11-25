@@ -17,7 +17,7 @@ public class BeTheCompiler_A {
     public static void main(String[] args) {
         // We must create an object for StreamingSong Class
         StreamingSong song = new StreamingSong();
-        song.artist = "The Beatless";
+        song.artist = "The Beatles";
         song.title = "Come Together";
         song.duration = 3.43;
         song.play();
