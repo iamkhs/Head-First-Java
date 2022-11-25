@@ -4,7 +4,6 @@ class StreamingSong{
     String title;
     String artist;
     double duration;
-
     void play(){
         System.out.println(title + " is playing");
     }
