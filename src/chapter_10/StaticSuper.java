@@ -25,5 +25,14 @@ class StaticTests extends StaticSuper{
     public static void main(String[] args) {
         System.out.println("in main");
         StaticTests st = new StaticTests();
+
+        /*
+        The Output will be
+        super static block
+        static block (random number)
+        in main
+        super constructor
+        constructor
+         */
     }
 }
