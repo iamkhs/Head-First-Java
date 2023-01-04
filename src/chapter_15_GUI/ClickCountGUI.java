@@ -1,4 +1,4 @@
-package chapter_14_GUI;
+package chapter_15_GUI;
 
 import javax.swing.*;
 import java.awt.*;
