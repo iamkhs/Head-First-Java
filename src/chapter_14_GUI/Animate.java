@@ -33,6 +33,7 @@ public class Animate {
         }
     }
 
+
     class MyDrawP extends JPanel{
         @Override
         protected void paintComponent(Graphics g) {
